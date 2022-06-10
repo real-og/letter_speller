@@ -1,0 +1,18 @@
+This is beautiful typer.
+
+You may text your friend in telegram spelling words by one single letter
+with 0.1s or 0.5s or 99s or whatever delay. Just like in INSTA stories.
+
+To run this program just
+1) Download letter_speller.py file
+2) Make sure you got or your virtual enviroment got libraries
+   mentiond in requirements.txt file.
+3) Run the letter_speller.py
+   (first time you have to log in your account from which you will text people)
+4) Noway, bro, really please DO NOT steal my id&hash for api since I don't know
+   where is the most suitable place to keep them. 
+
+-----------------------------------------------------------
+
+The project is constructed to get me familiar with git
+and some basic principals of coding.
